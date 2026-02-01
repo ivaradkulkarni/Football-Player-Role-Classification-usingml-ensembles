@@ -22,6 +22,15 @@ The project explores multiple machine learning algorithms and builds an end‑to
 ├── models/                                # Saved .pkl models and scaler
 └── data/                                  # cleaned_data.csv
 ```
+## How to Run
+
+1. Clone the repo
+2. Install deps: `pip install -r requirements.txt`
+3. Open `notebooks/` in Jupyter
+4. Start with `1.player_classification_1.ipynb`, then run 2–8 in order
+
+
+
 ## Dataset
 
 This project uses publicly available football player data from Kaggle:
@@ -29,3 +38,5 @@ This project uses publicly available football player data from Kaggle:
 
 https://drive.google.com/file/d/1J-JMUD4TO6f9s-B7Ck0Rbe0DCHQZQ6pX/view?usp=sharing
 https://www.kaggle.com/datasets/hugomathien/soccer
+
+
